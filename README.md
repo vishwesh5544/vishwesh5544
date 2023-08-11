@@ -1,7 +1,7 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, Vish here. </h1>
 
 
-## <p>An accomplised Full-stack Software Engineer and Architect with proven track record of delivering enterprise grade solutions.<p>
+## <p>An accomplised full-stack Software Engineer and Architect with proven track record of delivering enterprise grade solutions.<p>
 ### <p align="center">I'm just a problem solver and coding is my primary tool. ~ Vishwesh Shukla</p>
 
 ### <p align="center"><b>Visitor's Count</b></p>
